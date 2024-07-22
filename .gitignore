@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 02-open-source/ollama_files/id_ed25519
 02-open-source/ollama_files/models/blobs/
+workshop/.lancedb
