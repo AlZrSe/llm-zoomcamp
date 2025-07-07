@@ -163,3 +163,4 @@ cython_debug/
 02-open-source/ollama_files/id_ed25519
 02-open-source/ollama_files/models/blobs/
 workshop/.lancedb
+02-vector-search/qdrant_storage/
